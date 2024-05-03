@@ -4,7 +4,6 @@
 
 > Status: Desenvolvedora em treinamento :)
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="250"><br><br>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 <br><br></div>
 
