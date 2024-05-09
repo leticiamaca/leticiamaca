@@ -1,11 +1,9 @@
->Hello World  🌎
-### Olá eu sou a Letícia!
-<h1>Sejam muito bem-vindos! ❤️ </h1>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4243ae&height=120&section==header"/>
+>Hello World  🌎
+<h1>Sejam muito bem-vindos! ❤️ </h1>
 > Status: Desenvolvedora em treinamento :)
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
-<br><br></div>
+
 
 # 💻 Tecnologias que uso:
 <br>
@@ -16,8 +14,12 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=leticiamaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-
 <br>
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<br><br></div>
+
 <div>
   <h2>:mailbox: Como chegar até mim:</h2>
   <a href = "mailto:leticiacastrojacobmarques@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
