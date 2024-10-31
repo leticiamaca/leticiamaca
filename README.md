@@ -1,11 +1,11 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4243ae&height=120&section==header"/>
 >Hello World  🌎
-<h1>Sejam muito bem-vindos! ❤️ </h1>
-> Status: Desenvolvedora em treinamento :)
+<h1>Welcome! ❤️ </h1>
+> Status: Developer in training :)
 
 
-# 💻 Tecnologias que uso:
+# 💻 Programation languages that i work with:
 <br>
 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,7 +21,7 @@
 <br><br></div>
 
 <div>
-  <h2>:mailbox: Como chegar até mim:</h2>
+  <h2>:mailbox: Contact:</h2>
   <a href = "mailto:leticiacastrojacobmarques@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticia-castro-jacob-marques-7119481b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/hinaichan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
