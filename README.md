@@ -1,37 +1,64 @@
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4243ae&height=120&section==header"/>
->Hello World  🌎
-<h1>Welcome! ❤️ </h1>
-> Status: Developer in training :)
-
-
-# 💻 Programation languages that i work with:
-<br>
-
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-<br>
-
-![](https://github-readme-stats.vercel.app/api?username=leticiamaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4243ae&height=120&section=header"/>
 
 <div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
-<br><br></div>
+  
+### Hello World 🌎
 
-<div>
-  <h2>:mailbox: Contact:</h2>
-  <a href = "mailto:leticiacastrojacobmarques@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leticia-castro-jacob-marques-7119481b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/hinaichan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
+# Welcome! ❤️
+
+> **Status:** Developer in training :)
+
 </div>
-<br>
 
-[![](https://visitcount.itsvg.in/api?id=leticiamaca&icon=0&color=10)](https://visitcount.itsvg.in)
+---
 
+## 💻 Tech Stack
 
+### Programming Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+### Tools & Platforms
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Design Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiamaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leticiacastrojacobmarques@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-castro-jacob-marques-7119481b5/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hinaichan/)
+
+</div>
+
+---
+
+<!-- <div align="center">
+  
+[![Profile Views](https://visitcount.itsvg.in/api?id=leticiamaca&icon=0&color=10)](https://visitcount.itsvg.in)
+
+</div> -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4243ae&height=120&section=footer"/>
